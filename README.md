@@ -101,4 +101,4 @@ npm run dev
 
 
 **Contact:**  
-For questions or support, please reach out to the project maintainer or open an issue.
+For questions or support, please reach out to me
